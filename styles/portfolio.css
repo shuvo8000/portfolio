@@ -55,14 +55,14 @@ header
     background-color: #FFF8F3;
     background: url("../images/developer.png"), url(../images/header_bg.png), #FFF8F3;
     background-repeat: no-repeat;
-    background-position: top left, bottom right;
+    background-position: 26px 38px, bottom right;
     padding-top: 50px;
 }
 
 nav{
     width: 89%;
     max-width: 1140px;
-    border: 1px solid red;
+ 
     margin: 0px auto;
     display: flex;
     justify-content: space-between;
@@ -83,7 +83,7 @@ nav .menu{
 }
 
 #banner{
-    border: 1px solid red;
+ 
     margin: 47px, 35px 0 230px;
     display: flex;
     justify-content: space-between;
